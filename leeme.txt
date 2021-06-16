@@ -1,0 +1,2 @@
+Para realizar el despliegue de el servidor lo unico que tenemos que hacer es ejecutar el comando npm run dev para iniciarlo y a continuacion en el navegador buscamos localhost:(nombre del puerto que estemos usando), en este caso el puerto 800.
+https://github.com/grupo23AW/practica23.git
