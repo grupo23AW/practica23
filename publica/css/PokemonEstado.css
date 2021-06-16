@@ -1,0 +1,238 @@
+.u-section-1 {
+  background-image: url("images/9849.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1384px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 23px 404px 0 437px;
+}
+
+.u-section-1 .u-products-1 {
+  margin-top: 12px;
+  margin-bottom: 23px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-auto-columns: 33.3333%;
+  grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  grid-gap: 0px 0px;
+  min-height: 1288px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/9849.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 0 22px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 247px;
+  height: 223px;
+  animation-duration: 1000ms;
+  margin: 37px auto 0 67px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 17px auto 0 111px;
+}
+
+.u-section-1 .u-image-3 {
+  height: 230px;
+  width: 247px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: 12px auto 0 102px;
+}
+
+.u-section-1 .u-image-4 {
+  height: 230px;
+  width: 259px;
+  margin: 50px auto 0 60px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  margin: 17px auto 0 102px;
+}
+
+.u-section-1 .u-image-5 {
+  height: 228px;
+  width: 259px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 400;
+  margin: 4px auto 0 102px;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: url("images/9849.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0 0 22px;
+}
+
+.u-section-1 .u-image-7 {
+  width: 247px;
+  height: 223px;
+  animation-duration: 1000ms;
+  margin: 37px auto 0 67px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 400;
+  margin: 17px auto 0 111px;
+}
+
+.u-section-1 .u-image-8 {
+  height: 230px;
+  width: 247px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 400;
+  margin: 12px auto 0 102px;
+}
+
+.u-section-1 .u-image-9 {
+  height: 230px;
+  width: 259px;
+  margin: 50px auto 0 60px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 400;
+  margin: 17px auto 0 102px;
+}
+
+.u-section-1 .u-image-10 {
+  height: 228px;
+  width: 259px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-9 {
+  font-weight: 400;
+  margin: 4px auto 0 102px;
+}
+
+.u-section-1 .u-image-11 {
+  background-image: url("images/9849.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0 0 22px;
+}
+
+.u-section-1 .u-image-12 {
+  width: 247px;
+  height: 223px;
+  animation-duration: 1000ms;
+  margin: 37px auto 0 67px;
+}
+
+.u-section-1 .u-text-10 {
+  font-weight: 400;
+  margin: 17px auto 0 111px;
+}
+
+.u-section-1 .u-image-13 {
+  height: 230px;
+  width: 247px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-11 {
+  font-weight: 400;
+  margin: 12px auto 0 102px;
+}
+
+.u-section-1 .u-image-14 {
+  height: 230px;
+  width: 259px;
+  margin: 50px auto 0 60px;
+}
+
+.u-section-1 .u-text-12 {
+  font-weight: 400;
+  margin: 17px auto 0 102px;
+}
+
+.u-section-1 .u-image-15 {
+  height: 228px;
+  width: 259px;
+  margin: 45px auto 0 67px;
+}
+
+.u-section-1 .u-text-13 {
+  font-weight: 400;
+  margin: 4px auto 0 102px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1678px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 352px;
+    margin-left: 337px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 33.333333333333336%;
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 231px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 270px;
+    margin-left: 227px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 50%;
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 203px;
+    margin-left: 137px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 128px;
+    margin-left: 37px;
+  }
+}
